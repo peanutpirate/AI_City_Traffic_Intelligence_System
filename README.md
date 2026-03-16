@@ -1,5 +1,7 @@
 # 🚦 AI City Traffic Intelligence System
 
+[![Project Banner][([https://raw.githubusercontent.com/peanutpirate/Week_10_Project_AI-Fraud_Detection/images/project_banner.png]
+
 An end-to-end **Data Science and AI project** that analyzes city traffic patterns and predicts future traffic volume using machine learning.
 
 The system combines **data analysis, feature engineering, visualization, and neural network prediction** to estimate traffic congestion levels and calculate a traffic risk score.
