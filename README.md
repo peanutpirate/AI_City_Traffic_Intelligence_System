@@ -227,4 +227,4 @@ Possible improvements include:
 
 # 👩‍💻 Author
 
-Built as part of the **#66DaysOfData learning journey**.
+Built as part of the **#66DaysOfData learning journey** by Ipek EGMEN.
