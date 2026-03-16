@@ -33,41 +33,6 @@ This project analyzes traffic data and builds an AI model capable of:
 ---
 
 # 📂 Project Structure
-# 🚦 AI City Traffic Intelligence System
-
-An end-to-end **Data Science and AI project** that analyzes city traffic patterns and predicts future traffic volume using machine learning.
-
-The system combines **data analysis, feature engineering, visualization, and neural network prediction** to estimate traffic congestion levels and calculate a traffic risk score.
-
-This project demonstrates how data science techniques can be applied to **urban mobility and traffic intelligence systems**.
-
----
-
-# 📊 Project Overview
-
-Urban traffic congestion is a growing challenge in modern cities.  
-Understanding traffic patterns and predicting future traffic volume can help city planners and transportation systems improve road efficiency and reduce congestion.
-
-This project analyzes traffic data and builds an AI model capable of:
-
-• Detecting traffic patterns across hours and days  
-• Understanding weather impact on traffic volume  
-• Predicting future traffic volume using TensorFlow  
-• Calculating a traffic **risk score** for congestion
-
----
-
-# 🧠 Key Features
-
-✔ Exploratory Data Analysis (EDA)  
-✔ Feature Engineering  
-✔ Traffic Pattern Visualization  
-✔ Neural Network Traffic Prediction  
-✔ Traffic Risk Scoring System  
-
----
-
-# 📂 Project Structure
     traffic-ai-system/
 
 data/
